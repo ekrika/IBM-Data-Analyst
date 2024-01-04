@@ -3,12 +3,25 @@
 Some suggestive insights from the Dashboard with Cognos Analytics
 
 1. Quantity Sold is unusually high when Product Line is TV and Video Gaming.
+
 2. Quantity Sold is most unusual when Order Year is 2020 and 2019.
+
 3. It is projected that by 2021, London will exceed Los Angeles in Quantity Sold by 778.
-4. It is projected that by 2021, Computers and Home Office will exceed TV and Video Gaming in Quantity Sold by nearly 7500.
+
+4. It is projected that by 2021, Computers and Home Office will exceed TV and Video Gaming in Quantity Sold by 
+nearly 7500.
+
 5. From 2019 to 2020, London's Quantity Sold dropped by 64%.
+
 6. From 2019 to 2020, TV and Video Gaming's Quantity Sold dropped by 77%
+
 7. Across all order years and product lines, the sum of Quantity Sold is over 396 thousand.
+
 8. The summed values of Quantity Sold range from 745 to over 43 thousand
-9. For Quantity Sold, the most significant values of Order Year are 2019, 2018, 2016, and 2017, whose respective Quantity Sold values add up to almost 353 thousand, or 89.1 % of the total.
+
+9. For Quantity Sold, the most significant values of Order Year are 2019, 2018, 2016, and 2017, whose respective 
+Quantity Sold values add up to almost 353 thousand, or 89.1 % of the total.
+
 10. For Quantity Sold, the most significant values of Product Line are TV and Video Gaming and Computers and Home Office, whose respective Quantity Sold values add up to over 264 thousand, or 66.7 % of the total.
+
+
